@@ -225,5 +225,6 @@ var randomNumber = function(min, max) {
   
   /* END GAME INFORMATION / VARIABLES */
   
+  
   /* RUN GAME */
   startGame();
